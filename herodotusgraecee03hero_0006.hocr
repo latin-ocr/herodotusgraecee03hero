@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./herodotusgraecee03hero_0006.png"; bbox 0 0 1554 2678; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 404 1244 1154 1435">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 404 1244 1154 1435">
+     <span class='ocr_line' id='line_1_1' title="bbox 404 1244 1154 1295; baseline 0 -12"><span class='ocrx_word' id='word_1_1' title='bbox 404 1244 603 1295; x_wconf 65' lang='lat' dir='ltr'>Digitized</span> <span class='ocrx_word' id='word_1_2' title='bbox 624 1244 675 1295; x_wconf 84' lang='lat' dir='ltr'>by</span> <span class='ocrx_word' id='word_1_3' title='bbox 693 1244 764 1284; x_wconf 76' lang='lat' dir='ltr'>the</span> <span class='ocrx_word' id='word_1_4' title='bbox 787 1244 962 1284; x_wconf 76' lang='lat' dir='ltr'>{nternet</span> <span class='ocrx_word' id='word_1_5' title='bbox 979 1244 1154 1284; x_wconf 75' lang='lat' dir='ltr'>Archive</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 480 1314 1075 1365; baseline 0 -12"><span class='ocrx_word' id='word_1_6' title='bbox 480 1314 514 1353; x_wconf 84' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_7' title='bbox 535 1315 650 1354; x_wconf 80' lang='lat'>2009</span> <span class='ocrx_word' id='word_1_8' title='bbox 668 1314 760 1354; x_wconf 76' lang='lat' dir='ltr'>with</span> <span class='ocrx_word' id='word_1_9' title='bbox 780 1314 953 1365; x_wconf 71' lang='lat' dir='ltr'>fundinq</span> <span class='ocrx_word' id='word_1_10' title='bbox 972 1314 1075 1354; x_wconf 78' lang='lat' dir='ltr'>from</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 537 1384 1020 1435; baseline 0 -11"><span class='ocrx_word' id='word_1_11' title='bbox 537 1384 766 1435; x_wconf 77' lang='lat' dir='ltr'>University</span> <span class='ocrx_word' id='word_1_12' title='bbox 785 1384 827 1424; x_wconf 80' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_13' title='bbox 844 1384 1020 1424; x_wconf 79' lang='lat' dir='ltr'>Toronto</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 123 2510 1433 2561">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 123 2510 1433 2561">
+     <span class='ocr_line' id='line_1_4' title="bbox 123 2510 1433 2561; baseline 0.001 -12"><span class='ocrx_word' id='word_1_14' title='bbox 123 2510 1433 2561; x_wconf 66' lang='lat' dir='ltr'>http:llwwwarchive.0rqldetailslherodotusqraeceeOShero</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

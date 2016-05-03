@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./herodotusgraecee03hero_0321.png"; bbox 0 0 2912 4368; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 530 588 1604 612">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 530 588 1604 612">
+     <span class='ocr_line' id='line_1_1' title="bbox 530 588 1604 612; baseline -0.001 0"><span class='ocrx_word' id='word_1_1' title='bbox 530 603 653 612; x_wconf 51' lang='lat' dir='ltr'><strong><em>...mne</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 678 601 739 611; x_wconf 57' lang='grc' dir='ltr'><strong><em>οφ</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 894 603 898 606; x_wconf 81' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1276 593 1398 609; x_wconf 52' lang='lat' dir='ltr'><strong><em>‘¹¹1¹‘ss</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1439 590 1469 607; x_wconf 61' lang='lat'><strong><em>&#39;⁴&#39;</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1511 588 1604 601; x_wconf 55' lang='lat' dir='ltr'><em>W</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 630 2062 3678">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 630 2062 3678">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 630 2062 3678; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 630 2062 3678; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
